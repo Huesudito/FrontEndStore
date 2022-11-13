@@ -102,7 +102,7 @@ h3 {
 
 .navegacion__enlace:hover,
 .navegacion__enlace--activo {
-    color: var(--morado);
+    color: var(--azul);
 }
 /** Grid **/
 .grid{
